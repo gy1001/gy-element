@@ -1,6 +1,6 @@
 {
   "name": "gy-element",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "type": "module",
   "main": "gy-element/index.js",
   "description": "基于 element-plus 创建的一个组件库",
@@ -21,5 +21,9 @@
     "typescript": "~5.8.3",
     "vite": "^7.0.4",
     "vue-tsc": "^2.2.12"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gy1001/gy-element.git"
   }
 }
