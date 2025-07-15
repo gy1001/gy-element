@@ -1,0 +1,18 @@
+.idea
+node_modules
+
+# 默认情况下，会忽略以下路径和文件，因此无需将它们显式添加到 .npmignore
+.*.swp
+._*
+.DS_Store
+.git
+.gitignore
+.hg
+.npmignore
+.npmrc
+.lock-wscript
+.svn
+.wafpickle-*
+config.gypi
+CVS
+npm-debug.log
