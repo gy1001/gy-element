@@ -25,8 +25,8 @@ importers:
         specifier: ^2.10.4
         version: 2.10.4(vue@3.5.17(typescript@5.8.3))
       gy-prettier:
-        specifier: ^0.0.3
-        version: 0.0.3
+        specifier: ^0.0.4
+        version: 0.0.4
       typescript:
         specifier: ~5.8.3
         version: 5.8.3
@@ -484,8 +484,8 @@ packages:
     engines: {node: ^8.16.0 || ^10.6.0 || >=11.0.0}
     os: [darwin]
 
-  gy-prettier@0.0.3:
-    resolution: {integrity: sha512-Tkf050FenX7amRgSxpcYP72zgK7zMLI4xnO/WjGW22aATGjMF1EM+MVXWvgr6X9OiV5OBIryLNQq5kLp2tXGJg==}
+  gy-prettier@0.0.4:
+    resolution: {integrity: sha512-FMXvuZFhXn8bIN2YeGMAd76yumHG6hYvVsw9Fpn3MiWBXkraaSu8WG3V1vEL4eW3uI9u1CGqFYU7RWlakCbj3Q==}
 
   he@1.2.0:
     resolution: {integrity: sha512-F/1DnUGPopORZi0ni+CvrCgHQ5FyEAHRLSApuYWMmrbSwoN2Mn/7k+Gl38gJnR7yyDZk6WLXwiGod1JOWNDKGw==}
@@ -1011,7 +1011,7 @@ snapshots:
   fsevents@2.3.3:
     optional: true
 
-  gy-prettier@0.0.3: {}
+  gy-prettier@0.0.4: {}
 
   he@1.2.0: {}
 

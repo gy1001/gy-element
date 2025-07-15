@@ -17,7 +17,7 @@
     "@vitejs/plugin-vue": "^6.0.0",
     "@vue/tsconfig": "^0.7.0",
     "element-plus": "^2.10.4",
-    "gy-prettier": "^0.0.3",
+    "gy-prettier": "^0.0.4",
     "typescript": "~5.8.3",
     "vite": "^7.0.4",
     "vue-tsc": "^2.2.12"
